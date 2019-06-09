@@ -1,0 +1,7 @@
+faker-logs:
+    build: ./
+    container_name: faker-logs
+    environment:
+      - FAKER_LOGS_CONFIG_NAME=example-config.json
+    volumes:
+      - ./logs/:/faker-logs/logs
