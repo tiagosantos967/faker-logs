@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "standalone": "node standalone.js"
   },
   "keywords": [],
   "author": "Tiago Santos",
