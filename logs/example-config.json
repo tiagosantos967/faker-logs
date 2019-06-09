@@ -1,5 +1,5 @@
 {
-  "logLocation": "example-logs.log",
+  "logName": "example-logs.log",
   "logTimer": 1000,
   "schema": {
     "firstName": "name.firstName",
