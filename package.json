@@ -1,0 +1,17 @@
+{
+  "name": "faker-logs",
+  "version": "0.5.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tiago Santos",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.11",
+    "touch": "^3.1.0"
+  }
+}
