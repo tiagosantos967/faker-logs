@@ -1,0 +1,10 @@
+{
+  "logLocation": "example-logs.log",
+  "logTimer": 1000,
+  "schema": {
+    "firstName": "name.firstName",
+    "lastName": "name.lastName",
+    "email": "internet.email",
+    "dob": "date.recent"
+  }
+}
