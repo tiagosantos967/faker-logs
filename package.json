@@ -4,6 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
+    "test": "jest",
     "standalone": "node standalone.js"
   },
   "keywords": [],
@@ -13,5 +14,9 @@
     "faker": "^4.1.0",
     "lodash": "^4.17.11",
     "touch": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0"
   }
 }
